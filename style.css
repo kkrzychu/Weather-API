@@ -1,0 +1,80 @@
+.navbar {
+    height: 8vh !important;
+}
+
+.box {
+    height: 84vh;
+    padding-top: 50px;
+}
+.title {
+    font-size: 25px;
+    margin: 1px 0 0 10px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.navbar-brand {
+    display: flex;
+}
+
+.container {
+    background-color: rgb(248, 249, 250);
+    width: 650px;
+    padding: 30px;
+}
+
+.row h4 {
+    margin-left: 1rem;
+    margin-bottom: 20px;
+}
+
+.inputCity {
+    width: 500px !important;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    margin: 20px 1rem ;
+}
+
+.col {
+    padding: 0;
+}
+
+.actualWeather {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
+
+.infoRow {
+    height: 50px;
+    border-top: 1px solid black;
+}
+.infoRow .col {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.infoRow .col-4 {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.footer {
+    height: 8vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-color: rgb(248, 249, 250);
+    color: black;
+}
