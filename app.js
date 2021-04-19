@@ -1,4 +1,4 @@
-const key = "2b34175fa27df73334a1b20badb5617e";
+const key = ""; //Private key from openweathermap.org
 const cityName = "London";
 
 
